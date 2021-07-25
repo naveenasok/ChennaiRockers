@@ -7,6 +7,9 @@ public class Sample {
 		System.out.println("Tree");
 		System.out.println("Plant");
 		System.out.println("seed");
+		System.out.println("Fruits");
+		System.out.println("Root");
+		
 			
 		
 	}
